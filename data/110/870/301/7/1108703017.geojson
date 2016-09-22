@@ -1,0 +1,82 @@
+{
+  "id": 1108703017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.5736991,-33.3992262,-70.5736991,-33.3992262",
+    "geom:latitude":-33.399226,
+    "geom:longitude":-70.573699,
+    "iso:country":"CL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Presidente Kennedy 5757 of 705",
+    "sg:city":"Santiago",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":" 7560356",
+    "sg:tags":[
+        "design",
+        "cms",
+        "web-sites",
+        "innovation",
+        "tech"
+    ],
+    "sg:website":"http://www.asesoriasdigitales.cl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682207,
+        102191577,
+        85633057,
+        102016915,
+        102063117,
+        85764425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uwZMuXaEjmYB5rFfS17tW_-33.399226_-70.573699@1308163240"
+    },
+    "wof:country":"CL",
+    "wof:created":1474570904,
+    "wof:geomhash":"5a8229d4a90d9a47a78e18d3bf071798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063117,
+            "locality_id":102016915,
+            "neighbourhood_id":85764425,
+            "region_id":85682207,
+            "venue_id":1108703017
+        }
+    ],
+    "wof:id":1108703017,
+    "wof:lastmodified":1474570904,
+    "wof:name":"Asesor\u00edas Digitales (Digital Advisors)",
+    "wof:parent_id":85764425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-cl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "cms",
+        "web-sites",
+        "innovation",
+        "tech"
+    ]
+},
+  "bbox": [
+    -70.5736991,
+    -33.3992262,
+    -70.5736991,
+    -33.3992262
+],
+  "geometry": {"coordinates":[-70.5736991,-33.3992262],"type":"Point"}
+}
